@@ -1,4 +1,4 @@
-# Project 1: Decision Tree Spam Classifier
+# Decision Tree Spam Classifier
 
 Decision Tree (entropy / information gain) built from scratch — binary spam detection.
 
