@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project 1: Decision Tree Spam Classifier
 
 Decision Tree (entropy / information gain) built from scratch — binary spam detection.
@@ -40,4 +39,3 @@ I implemented a binary decision tree classifier completely from scratch in NumPy
 =======
 # decision-tree-from-scratch
 A binary decision tree classifier built from scratch in NumPy/Pandas (entropy, information gain, recursive splitting) applied to spam message detection — no sklearn model classes used.
->>>>>>> 5343b4a93ddce453e7c2ce6983f6fc745c21b3f2
