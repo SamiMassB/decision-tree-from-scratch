@@ -1,11 +1,10 @@
 # Decision Tree Spam Classifier
 
-Decision Tree (entropy / information gain) built from scratch — binary spam detection.
+Decision Tree (entropy / information gain) built from scratch
 
 ## Setup
 ```bash
 pip install -r requirements.txt
-python data/generate_pr1_sample.py   # generates data/daneshchat_logs.csv if you don't have your own
 ```
 
 ## Running
@@ -13,7 +12,7 @@ python data/generate_pr1_sample.py   # generates data/daneshchat_logs.csv if you
 python -m src.main --data data/daneshchat_logs.csv
 ```
 
-## Sample Results
+## Sample Results On Sample Data
 
 ```
 DecisionTreeClassifierScratch
